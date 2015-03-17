@@ -377,6 +377,10 @@ form {
     -webkit-transition:1s ease all;
 }
 
+.mkt p {
+  font-weight:200;
+}
+
 .mkt {
     transition:1s ease all;
     -webkit-transition:1s ease all;
@@ -478,7 +482,10 @@ body {
 
 @media (max-width: 768px) { 
   .mkt h1 {
-    font-size:3em;
+    font-size:5em;
+  }
+  .mkt p {
+    font-size:18px;
   }
   .email-input {
     width:100%;
