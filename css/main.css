@@ -486,6 +486,7 @@ body {
   }
   .mkt p {
     font-size:18px;
+    font-weight: 400;
   }
   .email-input {
     width:100%;
