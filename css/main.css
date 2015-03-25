@@ -314,7 +314,7 @@ form {
   display: block;
   margin: 0;
   padding: 0 0 0.1em 5%;
-  width: 55%;
+  width: 65%;
   border: none;
   border-top-left-radius:6px;
   border-bottom-left-radius:6px;
@@ -338,7 +338,7 @@ form {
   padding-top:12px;
   padding-bottom:12px;
   float:left;
-  width:40%;
+  width:30%;
   border-radius:0;
   font-size:inherit;
   border-top-right-radius:6px;
