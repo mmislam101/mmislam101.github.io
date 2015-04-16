@@ -13,7 +13,7 @@ $(document).ready(function(){
     	$('.mkt p').removeClass('slidden');
 	}, 3500);
 	setTimeout(function(){
-    	$('.form-wrapper').removeClass('slidden');
+    	$('a').removeClass('slidden');
 	}, 5000);
 
 });
