@@ -467,6 +467,24 @@ body {
   -webkit-transition:1s ease all;
 }
 
+.contact-btn {
+  margin:30px auto;
+  padding:15px 32px;
+  letter-spacing: 0.14em;
+  color:#222;
+  background:white;
+  background-size:100% 100%;
+  border-radius:100px;
+  display:inline-block;
+  transition:1s ease all;
+  -webkit-transition:1s ease all;
+  text-shadow:none;
+  color:153456;
+}
+.contact-btn:hover {
+  text-decoration: none;
+}
+
 /*
  * Affix and center
  */

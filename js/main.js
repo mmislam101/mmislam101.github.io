@@ -5,15 +5,15 @@ $('input').click(function(){
 $(document).ready(function(){
 	setTimeout(function(){
     	$('.masker').removeClass('masken');
-	}, 200);
+	}, 100);
 	setTimeout(function(){
     	$('.mkt h1').removeClass('slidden');
-	}, 1500);
+	}, 100);
 	setTimeout(function(){
     	$('.mkt p').removeClass('slidden');
-	}, 3500);
+	}, 700);
 	setTimeout(function(){
     	$('a').removeClass('slidden');
-	}, 5000);
+	}, 700);
 
 });
