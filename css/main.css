@@ -420,7 +420,6 @@ body {
 }
 .shutdown-banner {
   width: 100%;
-  height: 30px;
   background: blue;
 }
 .shutdown-text {
@@ -513,9 +512,6 @@ body {
   .mkt h1 {
     font-size:5em;
     font-weight: 100;
-  }
-  .shutdown-banner {
-    height: 35px;
   }
   .shutdown-text {
     font-size: 21px;
